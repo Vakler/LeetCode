@@ -103,3 +103,4 @@ C:\repos\LeetCode\LeetCode.Tests\obj\Debug\net8.0\refint\LeetCode.Tests.dll
 C:\repos\LeetCode\LeetCode.Tests\obj\Debug\net8.0\LeetCode.Tests.pdb
 C:\repos\LeetCode\LeetCode.Tests\obj\Debug\net8.0\LeetCode.Tests.genruntimeconfig.cache
 C:\repos\LeetCode\LeetCode.Tests\obj\Debug\net8.0\ref\LeetCode.Tests.dll
+C:\repos\LeetCode\LeetCode.Tests\obj\Debug\net8.0\LeetCode.Tests.sourcelink.json

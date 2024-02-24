@@ -1,14 +1,9 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=95bb9262_002Da32c_002D4359_002D82a9_002D065705403c19/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="OutputIsFalseClose" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ebcec791_002D544c_002D44d6_002Db582_002Db6c964b38de6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DefangingAnIpAddressSolutionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
   &lt;TestAncestor&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::43ADC0DF-2B9A-433A-BB45-55BFD27D9069::net8.0::LeetCode.Tests.ValidParenthesesTests.OutputIsFalseClose&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::43ADC0DF-2B9A-433A-BB45-55BFD27D9069::net8.0::LeetCode.Tests.ValidParenthesesTests.OutputIsFalseCloseOpen&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::43ADC0DF-2B9A-433A-BB45-55BFD27D9069::net8.0::LeetCode.Tests.ValidParenthesesTests.OutputIsFalseLong&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::43ADC0DF-2B9A-433A-BB45-55BFD27D9069::net8.0::LeetCode.Tests.ValidParenthesesTests.OutputIsFalseOpenInClose&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::43ADC0DF-2B9A-433A-BB45-55BFD27D9069::net8.0::LeetCode.Tests.ValidParenthesesTests.OutputIsFalseSingle&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::43ADC0DF-2B9A-433A-BB45-55BFD27D9069::net8.0::LeetCode.Tests.ValidParenthesesTests.OutputIsFalseTwoNoClose&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::43ADC0DF-2B9A-433A-BB45-55BFD27D9069::net8.0::LeetCode.Tests.ValidParenthesesTests.OutputTrueChild&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::43ADC0DF-2B9A-433A-BB45-55BFD27D9069::net8.0::LeetCode.Tests.ValidParenthesesTests.OutputTrueMulti&lt;/TestId&gt;&#xD;
-    &lt;TestId&gt;NUnit3x::43ADC0DF-2B9A-433A-BB45-55BFD27D9069::net8.0::LeetCode.Tests.ValidParenthesesTests.OutputTrueSingle&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::43ADC0DF-2B9A-433A-BB45-55BFD27D9069::net8.0::LeetCode.Tests.Solutions.TwoSumTests.SumIsCorrect&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	
+	
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Leet/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
