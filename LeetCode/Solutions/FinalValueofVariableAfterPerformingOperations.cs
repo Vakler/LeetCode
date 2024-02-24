@@ -1,13 +1,12 @@
-﻿namespace LeetCode.Utility;
+﻿namespace LeetCode.Solutions;
 
-public class FinalValueofVariableAfterPerformingOperationsSolution
+public class FinalValueofVariableAfterPerformingOperations
 {
     public int FinalValueAfterOperations(string[] operations)
     {
         var x = 0;
 
         foreach (var str in operations)
-        {
             switch (str)
             {
                 case "--X":
@@ -23,7 +22,7 @@ public class FinalValueofVariableAfterPerformingOperationsSolution
                     x += 1;
                     break;
             }
-        }
+
         return x;
     }
 }
