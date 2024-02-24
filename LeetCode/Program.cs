@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
+using System;
 using LeetCode.Models;
 using LeetCode.Solutions;
 using LeetCode.Utility;

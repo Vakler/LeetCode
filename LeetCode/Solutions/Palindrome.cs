@@ -1,4 +1,6 @@
-﻿namespace LeetCode.Solutions;
+﻿using System;
+
+namespace LeetCode.Solutions;
 
 public static class Palindrome
 {

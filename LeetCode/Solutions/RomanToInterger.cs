@@ -1,4 +1,6 @@
-﻿namespace LeetCode.Solutions;
+﻿using System.Collections.Generic;
+
+namespace LeetCode.Solutions;
 
 public class RomanToIntegerSolution
 {
