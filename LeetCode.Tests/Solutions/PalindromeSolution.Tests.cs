@@ -4,15 +4,15 @@ using LeetCode.Utility;
 namespace LeetCode.Tests.Solutions;
 
 [TestFixture]
-public class PalindromeTests
+public class S9PalindromeTests
 {
     [Test]
     public void OutputIsTrue()
     {
         Assert.Multiple(() =>
         {
-            Assert.That(Palindrome.IsPalindrome(121), Is.True);
-            Assert.That(Palindrome.IsPalindrome(3993), Is.True);
+            Assert.That(S9Palindrome.IsPalindrome(121), Is.True);
+            Assert.That(S9Palindrome.IsPalindrome(3993), Is.True);
         });
     }
 
@@ -21,8 +21,8 @@ public class PalindromeTests
     {
         Assert.Multiple(() =>
         {
-            Assert.That(Palindrome.IsPalindrome(-121), Is.False);
-            Assert.That(Palindrome.IsPalindrome(395),Is.False);
+            Assert.That(S9Palindrome.IsPalindrome(-121), Is.False);
+            Assert.That(S9Palindrome.IsPalindrome(395),Is.False);
         });
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace LeetCode.Solutions;
 
-public static class DefangingAnIPAddress
+public static class S1108DefangingAnIPAddress
 {
     public static string Defang(string address)
     {

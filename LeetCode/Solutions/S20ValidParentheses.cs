@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace LeetCode.Solutions;
 
-public class ValidParentheses
+public class S20ValidParentheses
 {
     private static readonly Dictionary<string, string> values = new()
     {

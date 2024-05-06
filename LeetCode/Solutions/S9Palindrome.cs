@@ -2,7 +2,7 @@
 
 namespace LeetCode.Solutions;
 
-public static class Palindrome
+public static class S9Palindrome
 {
     public static bool IsPalindrome(int x)
     {

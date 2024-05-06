@@ -6,18 +6,36 @@ using LeetCode.Models;
 using LeetCode.Solutions;
 using LeetCode.Utility;
 
-int[] numArr = [31, 12, 59, 26, 41, 58];
-// var result = TwoSum.TwoSum(numarr,21);
-// ListNode ln2 = new();
-// ListNode ln = new(1,ln2);
+int[] numbers = new[] { 1, 2, 3, 0, 0, 0 };
+int[] numbers2 = new[] { 2, 5, 6 };
 
-// Console.WriteLine($"Index of Number {result[0]} : {result[1]}");
+MergeSortedArray.Merge(numbers, 3, numbers2, 3);
 
-// Console.WriteLine(Palindrome.IsPalindrome(1234567899));
+//
+//
+//
+// var listNode1 = new ListNode(2)
+// {
+//     next = new ListNode(3)
+//     {
+//         next = new ListNode(4)
+//     }
+// };
+//
+// var listNode2 = new ListNode(5)
+// {
+//     next = new ListNode(6)
+//     {
+//         next = new ListNode(4)
+//     }
+// };
 
-// Console.WriteLine("RomanToIntergerSolution.RomanToInt(\"MCMXCIV\")");
-//Console.WriteLine($"{ValidParentheses.IsValid("{}")}");
+// Console.WriteLine($"{AddTwoNumbers.Add(listNode1,listNode2)}");
 
-var a = InsertionSort.SortDec(numArr);
-//Console.WriteLine($"{InsertionSort.Sort(numArr)}");
-Console.WriteLine($"{a}");
+// int[] numArr = [31, 12, 59, 26, 41, 58];
+// int[] numArr2 = [3, 41, 52, 26, 38, 57, 9, 49];
+//
+// var a = InsertionSort.SortDec(numArr);
+// var b = MergeSort.Sort(numArr2);
+//
+// Console.WriteLine($"{b}");
